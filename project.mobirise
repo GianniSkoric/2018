@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Gianni- Skoric",
+    "name": "Gianni- Skoric-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -31,7 +31,9 @@
     },
     "versionFirst": "4.4.1",
     "uniqCompNum": 42,
-    "versionPublish": "4.4.1"
+    "versionPublish": "4.4.1",
+    "favicon": "",
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
@@ -1427,6 +1429,7 @@
           "_name": "slider1",
           "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-carousel=\"slides\" class=\"full-screen\" mbr-carousel-embedded></div>\n\n</section>",
           "_cid": "qNdvA7X1vf",
+          "_anchor": "slider1-s",
           "_protectedParams": [
             "slides__autoplay",
             "slides__autoplayInterval",
@@ -1492,8 +1495,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               }
             ]
-          },
-          "_anchor": "slider1-s"
+          }
         },
         {
           "_styles": {
